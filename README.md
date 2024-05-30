@@ -10,4 +10,4 @@ A FiveM WaterMark script for your discord invite URL
 <i class="fab fa-discord"></i> <span class="discord-link">  discord.gg/[CHANGEHERE]</span>
 ```
 
-- and change accordingly
+- and change Replace [CHANGEHERE] accordingly with your discord invite
