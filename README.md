@@ -3,7 +3,7 @@ A FiveM WaterMark script for your discord invite URL
 
 ## How do i change the Link?
 
-- well go to `html > index.html`
+- well go to `html -> index.html`
 - find the area where its like this
 
 ```html
